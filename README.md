@@ -1,9 +1,5 @@
 ♦ Chapter - 1: Basic
-console.log()
-variables
-comments
-operators
-first js app
+console.log(), variables, comments, operators, first js app
 
 1. variables - are placeholders to store info and data in your app, refers to the value stroed in it (var name ='Alice') (var has 2 sides: reference(name), value(Alice)) tip - give descriptive name to var
 2. comment - read only
